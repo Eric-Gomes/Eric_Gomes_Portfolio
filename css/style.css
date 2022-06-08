@@ -83,7 +83,7 @@ p {
   color: #66fcf1;
 }
 
-#work {
+#work, #languages {
   background-image: linear-gradient(to right, #FEFEFE, #F7F7F7);
 }
 
