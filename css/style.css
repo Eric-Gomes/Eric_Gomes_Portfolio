@@ -17,7 +17,6 @@
 
 header {
   background-color: whitesmoke;
-
 }
 
 
@@ -113,7 +112,7 @@ background-image: linear-gradient(#00FA9A, #3AED1F);
 }
 
 #iconlist {
-  color: #66FCF1;
+  color: black;
 }
 
 
