@@ -76,7 +76,7 @@ p {
 }
 
 #tech {
-  color: white;
+  color: black;
 }
 
 #web, #personal, #startup, #copyright {
@@ -126,6 +126,6 @@ br {
 }
 
 #Globe ul, #Smarthelmet ul {
-  color: #66fcf1;
+  color: black;
   padding-bottom: 20px;
 }
