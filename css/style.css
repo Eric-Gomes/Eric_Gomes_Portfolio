@@ -37,13 +37,13 @@ a.producer:hover {
   color: #FECD46;
 }
 
-#profilepicture {
+/*#profilepicture {
   animation: pulse 2s infinite;
 }
 
 #globetrot, #shelmet {
   animation: pulse 3s infinite;
-}
+} */
 
 .jumbotron {
   position: relative;
