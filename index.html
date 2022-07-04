@@ -25,6 +25,9 @@
 	<!-- Your custom styles (optional) -->
 	<link href="css/style.css" rel="stylesheet">
 
+	<!-- Custom Javascript-->
+	<link href="js/script.js" rel="stylesheet">
+
 </head>
 
 <body class="developer">
@@ -79,7 +82,6 @@
 	</div>
 
 	
-
 	<!-- Language Development -->
 	<div id="languages" class="container-fluid text-center text-black">
 		<h1 id="tech">What I Work With</h1>
@@ -310,47 +312,6 @@
 	<script src="js/mdb.min.js"></script>
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
-
-
-	<!-- SCRIPTS -->
-	<script>
-		$(document).ready(function() {
-			$("a").on('click', function(event) {
-
-				if (this.hash !== "") {
-					event.preventDefault();
-
-					var hash = this.hash;
-
-					$('html, body').animate({
-						scrollTop: $(hash).offset().top
-					}, 900, function() {
-
-						window.location.hash = hash;
-					});
-				}
-			});
-		});
-	</script>
-
-	<script>
-	$(function() {
-
-$( document ).tooltip({
-
-	items: "[data-tooltip]",
-	content: function() {
-
-		var element = $( this );
-		var text = element.text();
-		var url = element.attr('data-tooltip');
-		return "<img class='map' alt='" + text +
-			"' src='" + url + "'>";
-
-	}
-});
-});
-	</script>
 
 </body>
 
