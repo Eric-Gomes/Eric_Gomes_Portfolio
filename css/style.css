@@ -142,7 +142,7 @@ br {
   background-color: #008CBA;
 }
 
-#olliespatch #flypsyde #blip:hover .overlay {
+#olliespatch #flypsyde #blip:hover.overlay {
   opacity: 1;
 }
 
