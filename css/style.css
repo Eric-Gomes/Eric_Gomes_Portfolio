@@ -142,7 +142,27 @@ br {
   background-color: #008CBA;
 }
 
-#olliespatch #flypsyde #blip:hover.overlay {
+#olliespatch :hover .overlay {
+  opacity: 1;
+}
+
+#flypsyde :hover .overlay {
+  opacity: 1;
+}
+
+#missbethanystore :hover .overlay {
+  opacity: 1;
+}
+
+#banner :hover .overlay {
+  opacity: 1;
+}
+
+#olliespatch :hover .overlay {
+  opacity: 1;
+}
+
+#wavecharge :hover .overlay {
   opacity: 1;
 }
 
