@@ -25,6 +25,9 @@ body {
   font:20px georgia, serif;
 }
 
+p {
+  line-height: 1.0;
+}
 a.frontenddeveloper:hover {
   color: #ff0000;
 }
