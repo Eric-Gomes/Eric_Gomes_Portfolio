@@ -36,10 +36,6 @@ a.innovator:hover {
   color: #3AED1F;
 }
 
-a.producer:hover {
-  color: #FECD46;
-}
-
 /*#profilepicture {
   animation: pulse 2s infinite;
 }
@@ -146,7 +142,7 @@ br {
   background-color: #008CBA;
 }
 
-.container:hover .overlay {
+#olliespatch, #flypsyde:hover .overlay {
   opacity: 1;
 }
 
