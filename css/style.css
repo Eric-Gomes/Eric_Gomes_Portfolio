@@ -44,6 +44,9 @@ a.innovator:hover {
   animation: pulse 3s infinite;
 } */
 
+.container  {
+  background-color: whitesmoke;
+}
 
 
 .jumbotron .container {
