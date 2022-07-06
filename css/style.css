@@ -15,12 +15,7 @@
 
 }
 
-header {
-  background-color: whitesmoke;
-}
-
-
-body {
+body, header {
   background-color: whitesmoke;
   font:20px georgia, serif;
 }
@@ -28,6 +23,7 @@ body {
 p {
   line-height: 1.8;
 }
+
 a.frontenddeveloper:hover {
   color: #ff0000;
 }
@@ -36,28 +32,9 @@ a.innovator:hover {
   color: #3AED1F;
 }
 
-/*#profilepicture {
-  animation: pulse 2s infinite;
-}
-
-#globetrot, #shelmet {
-  animation: pulse 3s infinite;
-} */
-
 .jumbotron .container {
   position: relative;
   z-index: 2;
-}
-
-.jumbotron-background {
-  object-fit:fill;
-  position:absolute;
-  top:0;
-  z-index:1;
-  width:100%;
-  height:100%;
-  opacity:0.5;
-  filter: blur(7px);
 }
 
 p {
@@ -68,16 +45,8 @@ p {
   background-color: whitesmoke;
 }
 
-#eric, #gomes {
+#eric, #gomes, #tech, #web, #personal, #startup, #copyright {
   color: #0B0C10;
-}
-
-#tech {
-  color: black;
-}
-
-#web, #personal, #startup, #copyright {
-  color: black;
 }
 
 #work, #languages, #footer {
@@ -117,7 +86,6 @@ br {
   color: black;
   padding-bottom: 20px;
 }
-
 
 .fa-github {
   color: purple;
