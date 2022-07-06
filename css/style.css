@@ -49,9 +49,9 @@ p {
   color: #0B0C10;
 }
 
-#work, #languages, #footer {
+/*#work, #languages, #footer {
   background-image: linear-gradient(to right, #FEFEFE, #F7F7F7);
-}
+} */
 
 #development {
   background-image: linear-gradient(#FA8072, #FF0000);
