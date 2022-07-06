@@ -128,7 +128,7 @@ br {
 
 #banner:hover .overlay {
   opacity: 1;
-  background-color: #8c979004;
+  background-color: gainsboro;
 }
 
 #blip:hover .overlay {
