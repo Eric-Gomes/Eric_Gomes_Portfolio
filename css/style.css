@@ -109,31 +109,36 @@ br {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
 } 
 
 #olliespatch:hover .overlay {
   opacity: 1;
+  background-color: #37d792;
 }
 
 #flypsyde:hover .overlay {
   opacity: 1;
+  background-color: #008CBA;
 }
 
 #MissBethanyStore:hover .overlay {
   opacity: 1;
+  background-color: #eb8b2a;
 }
 
 #banner:hover .overlay {
   opacity: 1;
+  background-color: #8c979004;
 }
 
 #blip:hover .overlay {
   opacity: 1;
+  background-color: #e21313;
 }
 
 #wavecharge:hover .overlay {
   opacity: 1;
+  background-color: #1c5191;
 }
 
 .text {
