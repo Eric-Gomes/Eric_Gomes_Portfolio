@@ -44,11 +44,6 @@ a.innovator:hover {
   animation: pulse 3s infinite;
 } */
 
-.container  {
-  background-color: whitesmoke;
-}
-
-
 .jumbotron .container {
   position: relative;
   z-index: 2;
@@ -69,7 +64,7 @@ p {
   word-spacing: 8px;
 }
 
-#about {
+#about, #languages {
   background-color: whitesmoke;
 }
 
