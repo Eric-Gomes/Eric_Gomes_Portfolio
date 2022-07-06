@@ -125,6 +125,13 @@ br {
   background-color: #FA8072;
 }
 
+.fa-linkedin-in {
+  color: blue;
+}
+
+.fa-twitter {
+  color: lightskyblue;
+
 .overlay {
   position: absolute;
   top: 0;
