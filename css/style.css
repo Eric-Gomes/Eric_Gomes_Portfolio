@@ -121,11 +121,6 @@ br {
   background-color: #008CBA;
 }
 
-#MissBethanyStore:hover .overlay {
-  opacity: 1;
-  background-color: #eb8b2a;
-}
-
 #banner:hover .overlay {
   opacity: 1;
   background-color: gainsboro;
