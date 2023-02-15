@@ -16,22 +16,17 @@
 }
 
 body, head {
-  background-color: whitesmoke;
+  background-color: white;
   font:20px georgia, serif;
+}
+
+section {
+  background-color: white;
 }
 
 p {
   line-height: 1.8;
 }
-
-a.frontenddeveloper:hover {
-  color: #ff0000;
-}
-
-a.innovator:hover {
-  color: #3AED1F;
-}
-
 .jumbotron .container {
   position: relative;
   z-index: 2;
@@ -42,8 +37,10 @@ p {
 }
 
 #about, #languages {
-  background-color: whitesmoke;
+  background-color: white;
 }
+
+ 
 
 #eric, #gomes, #tech, #web, #personal, #startup, #copyright {
   color: #0B0C10;
@@ -53,12 +50,10 @@ p {
   background-image: linear-gradient(to right, #FEFEFE, #F7F7F7);
 } */
 
-#development {
-  background-image: linear-gradient(#FA8072, #FF0000);
-}
-
-#design {
-background-image: linear-gradient(#00FA9A, #3AED1F);
+#development, #design {
+  background: #064e52;
+  border-radius: 5%;
+  
 }
 
 #production {
