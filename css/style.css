@@ -68,7 +68,7 @@ p {
 
 .development, ul {
   text-align: center;
-  color: #273043;
+  color: white;
 }
 
 #globetrot {
@@ -124,7 +124,7 @@ br {
 
 #banner:hover .overlay {
   opacity: 1;
-  background-color: gainsboro;
+  background-color: black;
 }
 
 #blip:hover .overlay {
