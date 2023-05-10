@@ -52,23 +52,25 @@
         </div>
       </nav>
     
-
-	<div class="container text-left" id="about">
-		<h1 class="text-left">About Me</h1>
-		<br>
-		<br>
-		<p class="text-left">
-		 I'm Eric, a Developer and [Engineer enthusiast] with my focus on both playing fields. 
-		 I love to create from a young age, and now with technology at my fingertips it has got much easier,
-		 
-		 I'm currently working on a few websites and would love to work with anyone, anytime. 
-
-		 Drop me an email and we can get started. 
-		</p>
-	</div>
-    
     <h2>Let's get in touch</h2>
     <p>Email: gomesneric@gmail.com</p>
+
+	<div class="container">
+		<form action="action_page.php">
+	  
+		  <label for="fname">First Name</label>
+		  <input type="text" id="fname" name="firstname" placeholder="Your name..">
+	  
+		  <label for="lname">Last Name</label>
+		  <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+	  
+		  <label for="subject">Subject</label>
+		  <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+	  
+		  <input type="submit" value="Submit">
+	  
+		</form>
+	  </div>
 
     <!-- Footer -->
 	<footer class="page-footer font-small" id="footer">
