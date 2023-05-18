@@ -1,3 +1,38 @@
+#main {
+  text-align: center;
+  
+  width: 1000px;
+  height: 370px;
+  margin: 0 auto;
+  border-radius: 25px;
+}
+
+.container-fluid {
+  background-color: #c74646;
+}
+
+h1 {
+  font-size: 130px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: normal;
+  color: #fff;
+  padding: 90px 0 25px 0;
+  text-shadow: 2px 2px 2px #ffffff;
+}
+
+.animatedText {
+  animation: fadeAndScale .6s ease-in;
+}
+
+@keyframes fadeAndScale {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 
 .center {
   margin-left: auto;
