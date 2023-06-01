@@ -71,6 +71,17 @@ a {
   
 }
 
+/* AnimationDot with container and text */
+.animatedDot {
+  will-change: transform;
+  transition: transform 425ms;
+}
+
+.animatedDot:hover {
+  transition: transform 425ms;
+  transform: translateY(-50px) scale(1.5);
+}
+
 /* Animation with container and text */
 
 .animatedC {
