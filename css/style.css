@@ -34,8 +34,7 @@ a {
   color: #fff;
 }
 
-/* Animation with container and text */
-
+/* AnimationE with container and text */
 .animatedE {
   will-change: transform;
   transition: transform 450ms;
@@ -47,8 +46,7 @@ a {
   
 }
 
-/* Animation with container and text */
-
+/* AnimationR with container and text */
 .animatedR {
   will-change: transform;
   transition: transform 450ms;
@@ -60,6 +58,7 @@ a {
   
 }
 
+/* AnimationI with container and text */
 .animatedI {
   will-change: transform;
   transition: transform 450ms;
@@ -82,8 +81,7 @@ a {
   transform: translateY(-50px) scale(1.5);
 }
 
-/* Animation with container and text */
-
+/* AnimationC with container and text */
 .animatedC {
   will-change: transform;
   transition: transform 450ms;
