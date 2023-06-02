@@ -122,6 +122,7 @@ ul#horizontalList {
 
  ul#horizontalList li {
   display: inline;
+  padding-left: 4em;
   align-items: center;
   justify-content: space-between;
  }
