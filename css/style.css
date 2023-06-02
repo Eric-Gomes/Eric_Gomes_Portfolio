@@ -126,3 +126,12 @@ ul#horizontalList {
   align-items: center;
   justify-content: space-between;
  }
+
+ .animatedDotz {
+  margin-top: -260px;
+ }
+
+ .animatedDott {
+  margin-right: 260px;
+  margin-bottom: 100px;
+ }
