@@ -151,3 +151,6 @@ ul#horizontalList {
   object-fit: contain;
  }
  
+ #future {
+  text-shadow: gray;
+ }
